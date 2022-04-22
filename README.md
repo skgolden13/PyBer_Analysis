@@ -36,3 +36,9 @@ The fare summary line plot by week and city type (shown in Figure 2) shows that 
 </p>
 
 ## Analysis Summary
+
+Urban cities produce the greatest valie of total fares and have the highest ride volume. It would be worthwhile to invest more in advertising for both the service itself and positions as a driver. More drivers would allow for PyBer to handle an increase in demand while increased usage would drive revenue higher.
+
+Rural cities have the highest average ride fare. This is likely due to an increased distance between locations in rural areas. Increased advertising in rural areas leading to increased demand may be able to lower average ride fares while keeping total fares at a similar or increased rate.
+
+Advertising the higher average fares for rural areas to prospective drivers may be able to increase the number of drivers in rural areas. An increased number of drivers in rural areas may lead to more rides in these locations. To understand the effect of this recommendation, it would be useful to know the average wait time for a ride in rural areas before and after along with the available data for the number of rides.
